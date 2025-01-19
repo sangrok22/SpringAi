@@ -1,6 +1,6 @@
 ﻿# SpringAi
 ## AI 챗봇 만들기
-Postman으로 사용자가 질문
+Postman으로 사용자가 질문 <br>
 <img width="601" alt="질문" src="https://github.com/user-attachments/assets/f2480978-5a80-422f-a385-3c5ce0f16a5d" />
 
 적당한 프롬포트로 훈련된 AI가 답변
