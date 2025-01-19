@@ -2,7 +2,7 @@
 spring:
   ai:
     openai:
-      api-key: "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"
+      api-key: 
       chat:
         options:
           model: gpt-4o
